@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my own website**
 
-- 🌱 I’m currently learning **every single web framework.**
+- 🌱 I’m currently learning **every single web framework. 🥲**
 
 - 📝 I regularly write articles on [ashfidable.github.io/blog](ashfidable.github.io/blog)
 
