@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **every single web framework. 🥲**
 
-- 📝 I regularly write articles on [ashfidable.github.io/blog](ashfidable.github.io/blog)
+- 📝 I regularly write articles on [my website](https://ashfid.dev)
 
-- 💬 Ask me about **game development**
+- 💬 Ask me about **development**
 
 - ⚡ Fun fact **I think I am helping myself more than others.**
 
